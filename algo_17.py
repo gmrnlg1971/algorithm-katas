@@ -1,0 +1,1 @@
+# Algorithm kata 17\n# Generated on 2026-05-29T20:15:52\ndef solution_17():\n    pass\n
