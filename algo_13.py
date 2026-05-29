@@ -1,0 +1,1 @@
+# Algorithm kata 13\n# Generated on 2026-05-29T10:39:52\ndef solution_13():\n    pass\n
