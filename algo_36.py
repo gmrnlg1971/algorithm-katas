@@ -1,0 +1,1 @@
+# Algorithm kata 36\n# Generated on 2026-06-01T01:03:52\ndef solution_36():\n    pass\n
