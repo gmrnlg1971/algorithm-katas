@@ -1,0 +1,1 @@
+# Algorithm kata 105\n# Generated on 2026-06-10T08:57:01\ndef solution_105():\n    pass\n
