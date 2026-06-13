@@ -1,0 +1,1 @@
+# Algorithm kata 120\n# Generated on 2026-06-13T08:15:52\ndef solution_120():\n    pass\n
